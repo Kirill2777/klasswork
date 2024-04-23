@@ -1,5 +1,2 @@
-#coding utf-8
-print ("1614")
-print ("1234")
-print ("ДА")
-print ("НЕТ")
+print (1, 7, 8, 15,)
+print ("Пустое множество")

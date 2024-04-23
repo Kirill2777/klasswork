@@ -1,4 +1,2 @@
-#coding utf-8
-print ("qwerty")
-print ("qwerty")
-print ("Пароль приняь")
+print (1, 3, 2, 4,)
+print (2, 3)

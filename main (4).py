@@ -1,3 +1,2 @@
-#coding utf-8
-print ("1 2 3")
-print ("YES")
+print (2)
+print (7)

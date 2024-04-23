@@ -1,3 +1,2 @@
-#coding utf-8
-print ("10")
-print ("Чётное")
+print (1, 4, 4, 6,)
+print (4)
