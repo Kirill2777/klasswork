@@ -1,2 +1,4 @@
-print (1, 4, 4, 6,)
-print (4)
+print ("1043")
+print ("YES")
+print ("1000")
+print ("NO")

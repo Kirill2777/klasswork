@@ -1,2 +1,4 @@
-print (8)
-print (1)
+print ("2020")
+print ("YES")
+print ("1999")
+print ("NO")
